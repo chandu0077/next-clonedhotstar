@@ -32,3 +32,11 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+build/
+node_modules/
+.cache/
+.env
+.DS_Store
+coverage/
+.vscode/
